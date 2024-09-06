@@ -19,7 +19,11 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from .... bonjour comment</h2>
+<h2 align="center">Hi 👋, I'm Berathan Akcakaya</h2>
+
+###
+
+<h3 align="center">A passionate jr.Web Pentester from TUR,FRA</h3>
 
 ###
 
@@ -27,7 +31,7 @@
 
 ###
 
-<p align="left">adaksdlakddslkalsasdlkaskda</p>
+<p align="left">https://coh4n.com<br>https://berathanakcakaya.com</p>
 
 ###
 
