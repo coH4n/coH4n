@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Hi 👋, I'm Berathan Akcakaya</h2>
+<h2 align="center">Hi 👋, I'm Berathan Akçakaya</h2>
 
 ###
 
