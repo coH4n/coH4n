@@ -37,37 +37,37 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="bash logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="35" alt="powershell logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="linux logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="35" alt="debian logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="35" alt="vim logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="35" alt="putty logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="35" alt="filezilla logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="35" alt="firefox logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="35" alt="chrome logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="35" alt="safari logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="35" alt="tomcat logo"  />
-  <img width="14" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="apache logo"  />
 </div>
 
