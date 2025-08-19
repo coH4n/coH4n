@@ -1,6 +1,7 @@
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnduNTgxd2llN2FxbWV1d2V1N2R4d3hkeGhrc3hlMWxwanU4eHUwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0ICG4WxdKSRzE3K/200.webp"  />
 </div>
+<div class="tenor-gif-embed" data-postid="23608006" data-share-method="host" data-aspect-ratio="0.8375" data-width="100%"><a href="https://tenor.com/view/linux-sudo-apt-computer-gif-23608006">Linux Sudo Apt GIF</a>from <a href="https://tenor.com/search/linux-gifs">Linux GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
