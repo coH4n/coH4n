@@ -7,7 +7,7 @@
 <div align="center">
   <img height="200" src="https://c.tenor.com/z6X-NO4N6TwAAAAd/tenor.gif"  />
 </div>
-
+<div class="tenor-gif-embed" data-postid="23608006" data-share-method="host" data-aspect-ratio="0.8375" data-width="100%"><a href="https://tenor.com/view/linux-sudo-apt-computer-gif-23608006">Linux Sudo Apt GIF</a>from <a href="https://tenor.com/search/linux-gifs">Linux GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/berathanakcakaya/" target="_blank">
