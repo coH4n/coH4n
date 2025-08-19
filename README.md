@@ -1,12 +1,4 @@
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnduNTgxd2llN2FxbWV1d2V1N2R4d3hkeGhrc3hlMWxwanU4eHUwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0ICG4WxdKSRzE3K/200.webp"  />
-</div>
-<div align="center">
-  <img height="200" src="https://c.tenor.com/VPzoBE5AxbMAAAAd/tenor.gif"  />
-</div>
-<div align="center">
-  <img height="200" src="https://c.tenor.com/z6X-NO4N6TwAAAAd/tenor.gif"  />
-</div>
+
 <div align="center">
   <img height="300" src="https://c.tenor.com/jp_oNluNgeAAAAAd/tenor.gif"  />
 </div>
