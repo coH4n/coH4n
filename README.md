@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" src="https://c.tenor.com/jp_oNluNgeAAAAAd/tenor.gif"  />
+  <img height="300" widht="150" src="https://c.tenor.com/jp_oNluNgeAAAAAd/tenor.gif"  />
 </div>
 
 <div align="center">
