@@ -5,9 +5,9 @@
   <img height="200" src="https://c.tenor.com/VPzoBE5AxbMAAAAd/tenor.gif"  />
 </div>
 <div align="center">
-  <img height="250" src="https://c.tenor.com/z6X-NO4N6TwAAAAd/tenor.gif"  />
+  <img height="200" src="https://c.tenor.com/z6X-NO4N6TwAAAAd/tenor.gif"  />
 </div>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/berathanakcakaya/" target="_blank">
