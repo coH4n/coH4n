@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">A passionate jr.Web Pentester from TUR,Eskişehir</h3>
+<h3 align="center">Linux </h3>
 
 ###
 
